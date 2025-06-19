@@ -45,7 +45,9 @@ creditCardRecommendationSystem/
 
 - **Live App:** [https://creditcardrecommendationsystem-project.streamlit.app/](https://creditcardrecommendationsystem-project.streamlit.app/)
 - **GitHub:** [https://github.com/alpha2lucifer/creditCardRecommendationSystem](https://github.com/alpha2lucifer/creditCardRecommendationSystem)
-
+<div align="center">
+  <img src="Untitled video - Made with Clipchamp (7).gif" height="500" />
+</div>
 ---
 
 ## Setup Instructions
