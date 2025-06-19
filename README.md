@@ -43,6 +43,7 @@ creditCardRecommendationSystem/
 
 ## Live Demo & Repository
 
+- **Video link:** [(https://vimeo.com/1094748093/63f14e9da2?share=copy)](https://vimeo.com/1094748093/63f14e9da2?share=copy)
 - **Live App:** [https://creditcardrecommendationsystem-project.streamlit.app/](https://creditcardrecommendationsystem-project.streamlit.app/)
 - **GitHub:** [https://github.com/alpha2lucifer/creditCardRecommendationSystem](https://github.com/alpha2lucifer/creditCardRecommendationSystem)
 <div align="center">
