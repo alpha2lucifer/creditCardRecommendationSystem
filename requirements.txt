@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scikit-learn
+joblib
+sentence-transformers
+langchain-huggingface
+python-dotenv
+pdfplumber
